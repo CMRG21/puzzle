@@ -1,0 +1,29 @@
+body{
+    margin: 20;      
+    padding:20;
+}
+
+.picall{
+    width: 100%;
+}
+
+.pic1{
+    position: absolute;
+    width: 33.33%;
+
+    left:0%
+}
+
+.pic2{
+    position: absolute;
+    width: 33.33%;
+
+    left:33.33%
+}
+
+.pic3{
+    position: absolute;
+    width: 33.33%;
+
+    left:66.66%
+}
